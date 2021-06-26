@@ -1,10 +1,10 @@
 ### Rule engine demo project
-Requirement:
+### Requirement:
 ![image](https://user-images.githubusercontent.com/6773728/123499531-2407fe80-d655-11eb-985a-f7279afdfd36.png)
 
  
-Rule Engine Implemenation:
-1.	Repository structure
+### Rule Engine Implemenation:
+### 1.	Repository structure
       ![image](https://user-images.githubusercontent.com/6773728/123499546-37b36500-d655-11eb-9767-890f64cf101f.png)
 EmpEligibilityDRLConfig.java
 ![image](https://user-images.githubusercontent.com/6773728/123499555-439f2700-d655-11eb-9aa5-f7f3cb0569d6.png)
