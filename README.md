@@ -1,2 +1,58 @@
 # rule engine implementation
-![image](https://user-images.githubusercontent.com/6773728/123499478-cecbed00-d654-11eb-96e5-f133d642a14b.png)
+Requirement:
+ 
+Rule Engine Implemenation:
+1.	Repository structure
+ 
+
+
+EmpEligibilityDRLConfig.java
+
+  
+
+Employee.java
+  
+empoyeeAgeValidation.drl
+ 
+
+EmpEligibilityCheckService.java
+ 
+ 
+EmpEligibilityCheckController.java
+ 
+Run spring boot Application
+ 
+ Execute rule: Submit Post request 
+When empAge<21
+ 
+
+
+When empAge=21
+
+ 
+When empAge>21
+
+ 
+
+
+
+
+
+	Junit Test Cases execution
+   
+
+
+
+
+
+
+
+All test cases passed successfully
+ 
+
+
+
+
+
+
+
