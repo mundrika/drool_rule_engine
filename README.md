@@ -1,1 +1,1 @@
-# ###### rule engine implementation
+# rule engine implementation
