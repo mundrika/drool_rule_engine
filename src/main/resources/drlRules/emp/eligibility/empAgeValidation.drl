@@ -1,0 +1,22 @@
+package drlRules.emp.eligibility;
+ 
+import org.hiring.employee.model.Employee;
+ 
+rule "empAgeGreaterThanToTwentOne"
+    when
+        empAge : Employee (age >21);
+    then
+        empAge.setEligibiltyStatus(false);
+end;
+ 
+rule "empAgeLessThanAndEqualTwentOne"
+    when
+        empAge : Employee (age <=21);
+    then
+         empAge.setEligibiltyStatus(true);
+end;
+
+
+
+
+
