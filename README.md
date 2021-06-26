@@ -21,7 +21,7 @@
 ### Run spring boot Application
 ![image](https://user-images.githubusercontent.com/6773728/123499607-7e08c400-d655-11eb-9d65-7bd690d73ecd.png)
 ![image](https://user-images.githubusercontent.com/6773728/123499610-85c86880-d655-11eb-910d-2750f32c75bf.png)
-![image](https://user-images.githubusercontent.com/6773728/123499614-88c35900-d655-11eb-8a31-564105da6570.png) 
+### ![image](https://user-images.githubusercontent.com/6773728/123499614-88c35900-d655-11eb-8a31-564105da6570.png) 
 ### Execute rule: Submit Post request 
 ### When empAge<21
 ![image](https://user-images.githubusercontent.com/6773728/123499619-9c6ebf80-d655-11eb-9833-790bb18a014b.png)
