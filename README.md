@@ -5,7 +5,7 @@
  
 ### Rule Engine Implemenation:
 ### 1.	Repository structure
-      ![image](https://user-images.githubusercontent.com/6773728/123542403-12168080-d767-11eb-84a3-f63a177a1ac7.png)
+![image](https://user-images.githubusercontent.com/6773728/123542420-35413000-d767-11eb-8af6-76f72a521245.png)
 
 ### EmpEligibilityDRLConfig.java
 ![image](https://user-images.githubusercontent.com/6773728/123499555-439f2700-d655-11eb-9aa5-f7f3cb0569d6.png)
