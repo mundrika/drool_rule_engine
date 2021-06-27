@@ -28,7 +28,8 @@
 ### When empAge=21
 ![image](https://user-images.githubusercontent.com/6773728/123499625-a55f9100-d655-11eb-8c04-2c81c38fa77e.png)
 ### When empAge>21
-![image](https://user-images.githubusercontent.com/6773728/123499629-ae506280-d655-11eb-9f32-b6190d8f8e1e.png)
+![image](https://user-images.githubusercontent.com/6773728/123540076-c9f16100-d75a-11eb-9f09-6fc7d4bd07e7.png)
+
 ### Junit Test Cases execution
 ![image](https://user-images.githubusercontent.com/6773728/123499635-b7d9ca80-d655-11eb-9851-803057341c35.png)
 ![image](https://user-images.githubusercontent.com/6773728/123499638-bc9e7e80-d655-11eb-9ac6-91fcd41b73fd.png)
