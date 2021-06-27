@@ -32,7 +32,7 @@ public class Employee {
 			
 		}
 		else {
-			response = "Sorry, "+ this.name + " you are eligible for hiring process !";
+			response = "Sorry, "+ this.name + " you are not eligible for hiring process !";
 		}
 		return response;
 	}
